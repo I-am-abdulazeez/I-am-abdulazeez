@@ -9,7 +9,7 @@ In my previous roles, I have had the opportunity to work on a wide range of proj
 In my free time, you can find me tinkering with new technologies or participating in hackathons and coding challenges. I am excited to bring my skills and enthusiasm to your team and help create amazing user experiences with React and Vue.
 
 
-## Tech Stacks
+## Tech Stack
 - HTML                  - 6 years
 - CSS                   - 6 years
 - Javascript            - 6 years
