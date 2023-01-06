@@ -19,7 +19,7 @@ In my free time, you can find me tinkering with new technologies or participatin
 - Vue                   - 5 years
 - Nuxt                  - 1 year
 - Ionic                 - 5 years
-- Angular               - 1 year
+- Angular               - 2 year
 - C#                    - 1 year
 
 - Firebase              - 5 years
