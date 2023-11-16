@@ -1,39 +1,44 @@
-## Hi there 👋 
+Hi 👋 My name is AbdulAzeez Olanrewaju Olamide
+==============================================
 
-My name is Olanrewaju AbdulAzeez Olamide and I am a front-end developer with a strong passion for creating modern, interactive web experiences using React and Vue.
+I am a software developer with years of experience with different languages and framework, i am also a lover of react
+---------------------------------------------------------------------------------------------------------------------
 
-With 6 years of experience in the industry, I have honed my skills in HTML, CSS, and JavaScript, and have a strong understanding of responsive design principles. In addition to my front-end skills, I have extensive experience with React, including creating reusable components, managing state, and optimizing performance.
+I am a seasoned software developer boasting extensive experience across various programming languages and frameworks. Over the years, I have honed my skills in crafting efficient and innovative solutions to complex problems. My expertise spans a diverse range of technologies, allowing me to navigate and excel in dynamic development environments. A particular passion of mine lies in the realm of React—a powerful and versatile JavaScript library. As a devoted enthusiast of React, I thrive on leveraging its capabilities to build interactive and seamless user interfaces. The modular and component-based nature of React aligns with my development philosophy, enabling me to create scalable and maintainable applications. Whether it's diving into the intricacies of backend development or orchestrating engaging front-end experiences, I approach each project with a commitment to quality and a keen eye for detail. My journey as a software developer has equipped me with the knowledge and adaptability to tackle diverse challenges, making me a valuable asset in the ever-evolving landscape of technology.
 
-In my previous roles, I have had the opportunity to work on a wide range of projects, from small websites to large, complex web applications built with React and Vue. I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life.
+* 🌍  I'm based in Lagos State, Nigeria.
+* 🖥️  See my portfolio at [MyPortfolio](http://https://vercel.com/dashboard)
+* ✉️  You can contact me at [abdulazeezolamide50@gmail.com](mailto:abdulazeezolamide50@gmail.com)
+* 🚀  I'm currently working on [SpaceAI](http://https://space-ai-three.vercel.app/)
+* 🧠  I'm learning Nuxt: A VueJS Framework
+* 🤝  I'm open to collaborating on New Projects
+* ⚡  I am a passionate and an enthusiast developer, hoping to code to solve the world problem.
 
-In my free time, you can find me tinkering with new technologies or participating in hackathons and coding challenges. I am excited to bring my skills and enthusiasm to your team and help create amazing user experiences with React and Vue.
+<a href="https://www.github.com/I-am-abdulazeez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/I-am-abdulazeez?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/dev_azeez" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/dev_azeez?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-
-## Tech Stack
-- HTML                  - 6 years
-- CSS                   - 6 years
-- Javascript            - 6 years
-- Typescript            - 4 years
-- React                 - 4 years
-- Next                  - 2 years
-- Vue                   - 5 years
-- Nuxt                  - 1 year
-- Ionic                 - 5 years
-- Angular               - 2 year
-- C#                    - 1 year
-
-- Firebase              - 5 years
-- Node                  - 3 years
-- SQL                   - 3 years
-
-- Figma                 - 2 years
-- Adobe XD              - 2 years
-- Photoshop             - 7 years
-- Coreldraw             - 7 years.
+### Skills
 
 
-🌱 I’m currently learning - Microsoft Dynamics (Now Business Central)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+</p>
 
-⚡ Fun fact: I love coding and food.
 
-📫 How to reach me on whatsapp and Telegram for any offer: (+234) 09036340011.
+### Socials
+
+<p align="left"> <a href="https://www.github.com/I-am-abdulazeez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/in/olanrewaju-abdulazeez-4a0a2915b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com//@oabdulazeez70" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/11604356/abdulazeez-olanrewaju" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/dev_azeez" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/I-am-abdulazeez"><img src="https://github-readme-stats.vercel.app/api?username=I-am-abdulazeez&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="I-am-abdulazeez's GitHub stats" /></a>
+
+<a href="http://www.github.com/I-am-abdulazeez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=I-am-abdulazeez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/I-am-abdulazeez"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=I-am-abdulazeez&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/I-am-abdulazeez" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-am-abdulazeez&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
