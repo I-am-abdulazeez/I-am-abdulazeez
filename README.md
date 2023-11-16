@@ -1,6 +1,6 @@
 <img width = "1500" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-Hi 👋 My name is AbdulAzeez Olanrewaju Olamide
+Hi 👋 My name is AbdulAzeez Olamide Olanrewaju 
 ==============================================
 
 I am a software developer with years of experience with different languages and frameworks,I am also a lover of React and Angular
