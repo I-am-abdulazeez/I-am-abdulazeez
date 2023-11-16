@@ -1,4 +1,4 @@
-<img width = "1500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img width = "1500" height="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 Hi 👋 My name is AbdulAzeez Olanrewaju Olamide
 ==============================================
