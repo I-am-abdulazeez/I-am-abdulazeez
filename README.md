@@ -9,7 +9,7 @@ I am a software developer boasting extensive experience across various programmi
 * 🌍  I'm based in Lagos State, Nigeria.
 <!-- This is a comment * 🖥️  See my portfolio at [MyPortfolio](http://https://vercel.com/dashboard) -->
 * ✉️  You can contact me at [abdulazeezolamide50@gmail.com](mailto:abdulazeezolamide50@gmail.com)
-* 🚀  I'm currently working on [SpaceAI](http://https://space-ai-three.vercel.app/)
+* 🚀  I'm currently working on [Bootiq App](https://bootiq-admin-app.vercel.app/)
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  I am a passionate and enthusiastic developer.
 
