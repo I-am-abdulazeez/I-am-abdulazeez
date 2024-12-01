@@ -11,7 +11,7 @@ I am a software developer boasting extensive experience across various programmi
 * ✉️  You can contact me at [abdulazeezolamide50@gmail.com](mailto:abdulazeezolamide50@gmail.com)
 * 🚀  I'm currently working on [SpaceAI](http://https://space-ai-three.vercel.app/)
 * 🤝  I'm open to collaborating on New Projects
-* ⚡  I am a passionate and enthusiastic developer, who hopes to code to solve world problems.
+* ⚡  I am a passionate and enthusiastic developer.
 
 
 <a href="https://www.github.com/I-am-abdulazeez" target="_blank" rel="noreferrer"><img
