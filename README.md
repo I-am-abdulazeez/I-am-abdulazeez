@@ -10,7 +10,6 @@ I am a software developer boasting extensive experience across various programmi
 <!-- This is a comment * 🖥️  See my portfolio at [MyPortfolio](http://https://vercel.com/dashboard) -->
 * ✉️  You can contact me at [abdulazeezolamide50@gmail.com](mailto:abdulazeezolamide50@gmail.com)
 * 🚀  I'm currently working on [SpaceAI](http://https://space-ai-three.vercel.app/)
-* 🧠  I'm learning Nuxt: A VueJS Framework
 * 🤝  I'm open to collaborating on New Projects
 * ⚡  I am a passionate and enthusiastic developer, who hopes to code to solve world problems.
 
