@@ -1,8 +1,5 @@
-Hi 👋 My name is AbdulAzeez
+### Hi 👋 My name is AbdulAzeez
 ==============================================
-
-I am a software developer with years of experience with different languages and frameworks, I am also a lover of React and Vue
-----------------------------------------------------------------------------------------------------------------------------------
 
 I am a software developer boasting extensive experience across various programming languages and frameworks. Over the years, I have honed my skills in crafting efficient and innovative solutions to complex problems. My expertise spans diverse technologies, allowing me to navigate and excel in dynamic development environments. A particular passion of mine lies in React—a powerful and versatile JavaScript library. As a devoted enthusiast of React, I thrive on leveraging its capabilities to build interactive and seamless user interfaces. The modular and component-based nature of React aligns with my development philosophy, enabling me to create scalable and maintainable applications. Whether diving into the intricacies of back-end development or orchestrating engaging front-end experiences, I approach each project with a commitment to quality and a keen eye for detail. 
 
