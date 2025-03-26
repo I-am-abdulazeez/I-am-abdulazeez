@@ -12,5 +12,3 @@ As a front-end developer, I am committed to designing visually appealing user-fr
 * ⚡  I am a passionate and enthusiastic developer.
 
 
-
-
