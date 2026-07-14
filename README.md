@@ -5,7 +5,7 @@ Senior Frontend Engineer with 7+ years building production-grade web and mobile
 applications across fintech, insurance, edtech, and event platforms.
 
 Currently building [Buzzable](https://buzzable.com), a real-time event and community 
-platform — and the author of [Stunk](https://stunk.dev), an open-source reactive state 
+platform, and the author of [Stunk](https://stunk.dev), an open-source reactive state 
 management library for JavaScript and TypeScript.
 
 - 🌍 Based in Lagos, Nigeria — working remotely for a San Francisco startup
